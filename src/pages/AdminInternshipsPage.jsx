@@ -100,10 +100,10 @@ const AdminInternshipsPage = () => {
   };
 
   return (
-    <div className="flex bg-slate-50 min-h-screen">
+    <div className="flex flex-col lg:flex-row bg-slate-50 min-h-screen">
       <AdminSidebar />
 
-      <main className="flex-grow p-8 overflow-y-auto">
+      <main className="flex-grow p-4 sm:p-6 lg:p-8 overflow-y-auto">
         
         <div className="flex justify-between items-center mb-8 pb-6 border-b border-slate-200">
           <div>

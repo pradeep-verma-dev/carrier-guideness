@@ -89,7 +89,7 @@ const AICareerAssistantPage = () => {
   };
 
   return (
-    <div className="flex bg-slate-50 min-h-screen">
+    <div className="flex flex-col lg:flex-row bg-slate-50 min-h-screen">
       <StudentSidebar />
 
       <main className="flex-grow flex flex-col h-screen overflow-hidden">

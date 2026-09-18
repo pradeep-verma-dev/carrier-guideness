@@ -32,10 +32,10 @@ const StudentCertificationsPage = () => {
   };
 
   return (
-    <div className="flex bg-slate-50 min-h-screen">
+    <div className="flex flex-col lg:flex-row bg-slate-50 min-h-screen">
       <StudentSidebar />
 
-      <main className="flex-grow p-8 overflow-y-auto">
+      <main className="flex-grow p-4 sm:p-6 lg:p-8 overflow-y-auto">
         
         {/* Header */}
         <div className="flex flex-col md:flex-row md:items-center justify-between mb-8 pb-6 border-b border-slate-200">
