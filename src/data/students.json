@@ -1,0 +1,936 @@
+[
+  {
+    "id": "student1",
+    "name": "Aarav Gupta",
+    "email": "student1@careerportal.demo",
+    "password": "student123",
+    "role": "student",
+    "studentId": "STU2026001",
+    "section": "CSE-A",
+    "year": "3rd Year",
+    "careerGoal": "Full Stack Developer",
+    "readiness": 68,
+    "completedCoursesCount": 5,
+    "certificationsCount": 3,
+    "internshipsAppliedCount": 4,
+    "placementPrepProgress": 55,
+    "skills": [
+      {
+        "name": "JavaScript",
+        "level": "Intermediate",
+        "target": "Advanced",
+        "progress": 75
+      },
+      {
+        "name": "React",
+        "level": "Intermediate",
+        "target": "Advanced",
+        "progress": 65
+      },
+      {
+        "name": "Node.js",
+        "level": "Beginner",
+        "target": "Intermediate",
+        "progress": 50
+      },
+      {
+        "name": "HTML & CSS",
+        "level": "Advanced",
+        "target": "Advanced",
+        "progress": 90
+      },
+      {
+        "name": "SQL",
+        "level": "Beginner",
+        "target": "Intermediate",
+        "progress": 40
+      },
+      {
+        "name": "Git & GitHub",
+        "level": "Intermediate",
+        "target": "Advanced",
+        "progress": 70
+      },
+      {
+        "name": "Data Structures",
+        "level": "Beginner",
+        "target": "Intermediate",
+        "progress": 45
+      },
+      {
+        "name": "Aptitude",
+        "level": "Intermediate",
+        "target": "Advanced",
+        "progress": 60
+      }
+    ],
+    "skillGaps": [
+      "Node.js",
+      "SQL",
+      "Data Structures",
+      "System Design"
+    ],
+    "higherEdInterests": [
+      "M.Tech",
+      "MBA"
+    ]
+  },
+  {
+    "id": "student2",
+    "name": "Diya Sharma",
+    "email": "student2@careerportal.demo",
+    "password": "student123",
+    "role": "student",
+    "studentId": "STU2026002",
+    "section": "CSE-A",
+    "year": "3rd Year",
+    "careerGoal": "AI/ML Engineer",
+    "readiness": 72,
+    "completedCoursesCount": 6,
+    "certificationsCount": 4,
+    "internshipsAppliedCount": 2,
+    "placementPrepProgress": 60,
+    "skills": [
+      {
+        "name": "Python",
+        "level": "Advanced",
+        "target": "Advanced",
+        "progress": 88
+      },
+      {
+        "name": "Machine Learning",
+        "level": "Intermediate",
+        "target": "Advanced",
+        "progress": 70
+      },
+      {
+        "name": "Deep Learning",
+        "level": "Beginner",
+        "target": "Intermediate",
+        "progress": 40
+      },
+      {
+        "name": "Data Analysis",
+        "level": "Intermediate",
+        "target": "Advanced",
+        "progress": 75
+      },
+      {
+        "name": "SQL",
+        "level": "Intermediate",
+        "target": "Advanced",
+        "progress": 65
+      }
+    ],
+    "skillGaps": [
+      "Deep Learning",
+      "TensorFlow",
+      "MLOps",
+      "Linear Algebra"
+    ],
+    "higherEdInterests": [
+      "MS in AI",
+      "PhD"
+    ]
+  },
+  {
+    "id": "student3",
+    "name": "Rohan Verma",
+    "email": "student3@careerportal.demo",
+    "password": "student123",
+    "role": "student",
+    "studentId": "STU2026003",
+    "section": "CSE-B",
+    "year": "4th Year",
+    "careerGoal": "Data Scientist",
+    "readiness": 45,
+    "completedCoursesCount": 2,
+    "certificationsCount": 1,
+    "internshipsAppliedCount": 1,
+    "placementPrepProgress": 35,
+    "skills": [
+      {
+        "name": "Python",
+        "level": "Intermediate",
+        "target": "Advanced",
+        "progress": 55
+      },
+      {
+        "name": "Statistics",
+        "level": "Beginner",
+        "target": "Intermediate",
+        "progress": 35
+      },
+      {
+        "name": "SQL",
+        "level": "Beginner",
+        "target": "Intermediate",
+        "progress": 40
+      }
+    ],
+    "skillGaps": [
+      "Pandas",
+      "Scikit-Learn",
+      "Data Visualization",
+      "Big Data"
+    ],
+    "higherEdInterests": [
+      "MS in Data Science"
+    ]
+  },
+  {
+    "id": "student4",
+    "name": "Ananya Patel",
+    "email": "student4@careerportal.demo",
+    "password": "student123",
+    "role": "student",
+    "studentId": "STU2026004",
+    "section": "IT-B",
+    "year": "3rd Year",
+    "careerGoal": "Cybersecurity Analyst",
+    "readiness": 81,
+    "completedCoursesCount": 7,
+    "certificationsCount": 5,
+    "internshipsAppliedCount": 5,
+    "placementPrepProgress": 75,
+    "skills": [
+      {
+        "name": "Networking",
+        "level": "Advanced",
+        "target": "Advanced",
+        "progress": 85
+      },
+      {
+        "name": "Linux",
+        "level": "Advanced",
+        "target": "Advanced",
+        "progress": 80
+      },
+      {
+        "name": "Ethical Hacking",
+        "level": "Intermediate",
+        "target": "Advanced",
+        "progress": 70
+      },
+      {
+        "name": "Python",
+        "level": "Intermediate",
+        "target": "Advanced",
+        "progress": 65
+      }
+    ],
+    "skillGaps": [
+      "SIEM Tools",
+      "Cryptography",
+      "Cloud Security"
+    ],
+    "higherEdInterests": [
+      "M.Tech Cybersecurity"
+    ]
+  },
+  {
+    "id": "student5",
+    "name": "Kabir Mehta",
+    "email": "student5@careerportal.demo",
+    "password": "student123",
+    "role": "student",
+    "studentId": "STU2026005",
+    "section": "CSE-A",
+    "year": "2nd Year",
+    "careerGoal": "Cloud Engineer",
+    "readiness": 40,
+    "completedCoursesCount": 2,
+    "certificationsCount": 1,
+    "internshipsAppliedCount": 0,
+    "placementPrepProgress": 30,
+    "skills": [
+      {
+        "name": "AWS Basics",
+        "level": "Beginner",
+        "target": "Intermediate",
+        "progress": 40
+      },
+      {
+        "name": "Linux",
+        "level": "Intermediate",
+        "target": "Advanced",
+        "progress": 50
+      },
+      {
+        "name": "Networking",
+        "level": "Beginner",
+        "target": "Intermediate",
+        "progress": 35
+      }
+    ],
+    "skillGaps": [
+      "Terraform",
+      "Docker",
+      "Kubernetes",
+      "AWS Solutions Architect"
+    ],
+    "higherEdInterests": [
+      "Certification Focus"
+    ]
+  },
+  {
+    "id": "student6",
+    "name": "Student Demo 6",
+    "email": "student6@careerportal.demo",
+    "password": "student123",
+    "role": "student",
+    "studentId": "STU2026006",
+    "section": "CSE-A",
+    "year": "3rd Year",
+    "careerGoal": "Cloud Engineer",
+    "readiness": 55,
+    "completedCoursesCount": 3,
+    "certificationsCount": 2,
+    "internshipsAppliedCount": 2,
+    "placementPrepProgress": 50,
+    "skills": [
+      {
+        "name": "Programming Basics",
+        "level": "Intermediate",
+        "target": "Advanced",
+        "progress": 55
+      },
+      {
+        "name": "Problem Solving",
+        "level": "Beginner",
+        "target": "Intermediate",
+        "progress": 45
+      },
+      {
+        "name": "Communication",
+        "level": "Intermediate",
+        "target": "Advanced",
+        "progress": 60
+      }
+    ],
+    "skillGaps": [
+      "Advanced Frameworks",
+      "System Architecture",
+      "Placement Mock Interviews"
+    ],
+    "higherEdInterests": [
+      "Higher Education"
+    ]
+  },
+  {
+    "id": "student7",
+    "name": "Student Demo 7",
+    "email": "student7@careerportal.demo",
+    "password": "student123",
+    "role": "student",
+    "studentId": "STU2026007",
+    "section": "AI-A",
+    "year": "4th Year",
+    "careerGoal": "DevOps Engineer",
+    "readiness": 57,
+    "completedCoursesCount": 3,
+    "certificationsCount": 2,
+    "internshipsAppliedCount": 2,
+    "placementPrepProgress": 52,
+    "skills": [
+      {
+        "name": "Programming Basics",
+        "level": "Intermediate",
+        "target": "Advanced",
+        "progress": 57
+      },
+      {
+        "name": "Problem Solving",
+        "level": "Beginner",
+        "target": "Intermediate",
+        "progress": 47
+      },
+      {
+        "name": "Communication",
+        "level": "Intermediate",
+        "target": "Advanced",
+        "progress": 60
+      }
+    ],
+    "skillGaps": [
+      "Advanced Frameworks",
+      "System Architecture",
+      "Placement Mock Interviews"
+    ],
+    "higherEdInterests": [
+      "Higher Education"
+    ]
+  },
+  {
+    "id": "student8",
+    "name": "Student Demo 8",
+    "email": "student8@careerportal.demo",
+    "password": "student123",
+    "role": "student",
+    "studentId": "STU2026008",
+    "section": "CSE-A",
+    "year": "3rd Year",
+    "careerGoal": "UI/UX Designer",
+    "readiness": 47,
+    "completedCoursesCount": 3,
+    "certificationsCount": 1,
+    "internshipsAppliedCount": 2,
+    "placementPrepProgress": 42,
+    "skills": [
+      {
+        "name": "Programming Basics",
+        "level": "Intermediate",
+        "target": "Advanced",
+        "progress": 47
+      },
+      {
+        "name": "Problem Solving",
+        "level": "Beginner",
+        "target": "Intermediate",
+        "progress": 37
+      },
+      {
+        "name": "Communication",
+        "level": "Intermediate",
+        "target": "Advanced",
+        "progress": 60
+      }
+    ],
+    "skillGaps": [
+      "Advanced Frameworks",
+      "System Architecture",
+      "Placement Mock Interviews"
+    ],
+    "higherEdInterests": [
+      "Higher Education"
+    ]
+  },
+  {
+    "id": "student9",
+    "name": "Student Demo 9",
+    "email": "student9@careerportal.demo",
+    "password": "student123",
+    "role": "student",
+    "studentId": "STU2026009",
+    "section": "IT-B",
+    "year": "4th Year",
+    "careerGoal": "Product Manager",
+    "readiness": 72,
+    "completedCoursesCount": 4,
+    "certificationsCount": 2,
+    "internshipsAppliedCount": 3,
+    "placementPrepProgress": 67,
+    "skills": [
+      {
+        "name": "Programming Basics",
+        "level": "Intermediate",
+        "target": "Advanced",
+        "progress": 72
+      },
+      {
+        "name": "Problem Solving",
+        "level": "Beginner",
+        "target": "Intermediate",
+        "progress": 62
+      },
+      {
+        "name": "Communication",
+        "level": "Intermediate",
+        "target": "Advanced",
+        "progress": 60
+      }
+    ],
+    "skillGaps": [
+      "Advanced Frameworks",
+      "System Architecture",
+      "Placement Mock Interviews"
+    ],
+    "higherEdInterests": [
+      "Higher Education"
+    ]
+  },
+  {
+    "id": "student10",
+    "name": "Student Demo 10",
+    "email": "student10@careerportal.demo",
+    "password": "student123",
+    "role": "student",
+    "studentId": "STU2026010",
+    "section": "CSE-A",
+    "year": "3rd Year",
+    "careerGoal": "Full Stack Developer",
+    "readiness": 60,
+    "completedCoursesCount": 4,
+    "certificationsCount": 2,
+    "internshipsAppliedCount": 3,
+    "placementPrepProgress": 55,
+    "skills": [
+      {
+        "name": "Programming Basics",
+        "level": "Intermediate",
+        "target": "Advanced",
+        "progress": 60
+      },
+      {
+        "name": "Problem Solving",
+        "level": "Beginner",
+        "target": "Intermediate",
+        "progress": 50
+      },
+      {
+        "name": "Communication",
+        "level": "Intermediate",
+        "target": "Advanced",
+        "progress": 60
+      }
+    ],
+    "skillGaps": [
+      "Advanced Frameworks",
+      "System Architecture",
+      "Placement Mock Interviews"
+    ],
+    "higherEdInterests": [
+      "Higher Education"
+    ]
+  },
+  {
+    "id": "student11",
+    "name": "Student Demo 11",
+    "email": "student11@careerportal.demo",
+    "password": "student123",
+    "role": "student",
+    "studentId": "STU2026011",
+    "section": "AI-A",
+    "year": "4th Year",
+    "careerGoal": "Backend Developer",
+    "readiness": 40,
+    "completedCoursesCount": 2,
+    "certificationsCount": 1,
+    "internshipsAppliedCount": 2,
+    "placementPrepProgress": 35,
+    "skills": [
+      {
+        "name": "Programming Basics",
+        "level": "Intermediate",
+        "target": "Advanced",
+        "progress": 40
+      },
+      {
+        "name": "Problem Solving",
+        "level": "Beginner",
+        "target": "Intermediate",
+        "progress": 30
+      },
+      {
+        "name": "Communication",
+        "level": "Intermediate",
+        "target": "Advanced",
+        "progress": 60
+      }
+    ],
+    "skillGaps": [
+      "Advanced Frameworks",
+      "System Architecture",
+      "Placement Mock Interviews"
+    ],
+    "higherEdInterests": [
+      "Higher Education"
+    ]
+  },
+  {
+    "id": "student12",
+    "name": "Student Demo 12",
+    "email": "student12@careerportal.demo",
+    "password": "student123",
+    "role": "student",
+    "studentId": "STU2026012",
+    "section": "CSE-A",
+    "year": "3rd Year",
+    "careerGoal": "Frontend Developer",
+    "readiness": 87,
+    "completedCoursesCount": 5,
+    "certificationsCount": 3,
+    "internshipsAppliedCount": 4,
+    "placementPrepProgress": 82,
+    "skills": [
+      {
+        "name": "Programming Basics",
+        "level": "Intermediate",
+        "target": "Advanced",
+        "progress": 87
+      },
+      {
+        "name": "Problem Solving",
+        "level": "Beginner",
+        "target": "Intermediate",
+        "progress": 77
+      },
+      {
+        "name": "Communication",
+        "level": "Intermediate",
+        "target": "Advanced",
+        "progress": 60
+      }
+    ],
+    "skillGaps": [
+      "Advanced Frameworks",
+      "System Architecture",
+      "Placement Mock Interviews"
+    ],
+    "higherEdInterests": [
+      "Higher Education"
+    ]
+  },
+  {
+    "id": "student13",
+    "name": "Student Demo 13",
+    "email": "student13@careerportal.demo",
+    "password": "student123",
+    "role": "student",
+    "studentId": "STU2026013",
+    "section": "AI-A",
+    "year": "4th Year",
+    "careerGoal": "Data Scientist",
+    "readiness": 42,
+    "completedCoursesCount": 2,
+    "certificationsCount": 1,
+    "internshipsAppliedCount": 2,
+    "placementPrepProgress": 37,
+    "skills": [
+      {
+        "name": "Programming Basics",
+        "level": "Intermediate",
+        "target": "Advanced",
+        "progress": 42
+      },
+      {
+        "name": "Problem Solving",
+        "level": "Beginner",
+        "target": "Intermediate",
+        "progress": 32
+      },
+      {
+        "name": "Communication",
+        "level": "Intermediate",
+        "target": "Advanced",
+        "progress": 60
+      }
+    ],
+    "skillGaps": [
+      "Advanced Frameworks",
+      "System Architecture",
+      "Placement Mock Interviews"
+    ],
+    "higherEdInterests": [
+      "Higher Education"
+    ]
+  },
+  {
+    "id": "student14",
+    "name": "Student Demo 14",
+    "email": "student14@careerportal.demo",
+    "password": "student123",
+    "role": "student",
+    "studentId": "STU2026014",
+    "section": "CSE-A",
+    "year": "3rd Year",
+    "careerGoal": "AI/ML Engineer",
+    "readiness": 78,
+    "completedCoursesCount": 5,
+    "certificationsCount": 3,
+    "internshipsAppliedCount": 3,
+    "placementPrepProgress": 73,
+    "skills": [
+      {
+        "name": "Programming Basics",
+        "level": "Intermediate",
+        "target": "Advanced",
+        "progress": 78
+      },
+      {
+        "name": "Problem Solving",
+        "level": "Beginner",
+        "target": "Intermediate",
+        "progress": 68
+      },
+      {
+        "name": "Communication",
+        "level": "Intermediate",
+        "target": "Advanced",
+        "progress": 60
+      }
+    ],
+    "skillGaps": [
+      "Advanced Frameworks",
+      "System Architecture",
+      "Placement Mock Interviews"
+    ],
+    "higherEdInterests": [
+      "Higher Education"
+    ]
+  },
+  {
+    "id": "student15",
+    "name": "Student Demo 15",
+    "email": "student15@careerportal.demo",
+    "password": "student123",
+    "role": "student",
+    "studentId": "STU2026015",
+    "section": "IT-B",
+    "year": "4th Year",
+    "careerGoal": "Cybersecurity Analyst",
+    "readiness": 42,
+    "completedCoursesCount": 2,
+    "certificationsCount": 1,
+    "internshipsAppliedCount": 2,
+    "placementPrepProgress": 37,
+    "skills": [
+      {
+        "name": "Programming Basics",
+        "level": "Intermediate",
+        "target": "Advanced",
+        "progress": 42
+      },
+      {
+        "name": "Problem Solving",
+        "level": "Beginner",
+        "target": "Intermediate",
+        "progress": 32
+      },
+      {
+        "name": "Communication",
+        "level": "Intermediate",
+        "target": "Advanced",
+        "progress": 60
+      }
+    ],
+    "skillGaps": [
+      "Advanced Frameworks",
+      "System Architecture",
+      "Placement Mock Interviews"
+    ],
+    "higherEdInterests": [
+      "Higher Education"
+    ]
+  },
+  {
+    "id": "student16",
+    "name": "Student Demo 16",
+    "email": "student16@careerportal.demo",
+    "password": "student123",
+    "role": "student",
+    "studentId": "STU2026016",
+    "section": "CSE-A",
+    "year": "3rd Year",
+    "careerGoal": "Cloud Engineer",
+    "readiness": 47,
+    "completedCoursesCount": 3,
+    "certificationsCount": 1,
+    "internshipsAppliedCount": 2,
+    "placementPrepProgress": 42,
+    "skills": [
+      {
+        "name": "Programming Basics",
+        "level": "Intermediate",
+        "target": "Advanced",
+        "progress": 47
+      },
+      {
+        "name": "Problem Solving",
+        "level": "Beginner",
+        "target": "Intermediate",
+        "progress": 37
+      },
+      {
+        "name": "Communication",
+        "level": "Intermediate",
+        "target": "Advanced",
+        "progress": 60
+      }
+    ],
+    "skillGaps": [
+      "Advanced Frameworks",
+      "System Architecture",
+      "Placement Mock Interviews"
+    ],
+    "higherEdInterests": [
+      "Higher Education"
+    ]
+  },
+  {
+    "id": "student17",
+    "name": "Student Demo 17",
+    "email": "student17@careerportal.demo",
+    "password": "student123",
+    "role": "student",
+    "studentId": "STU2026017",
+    "section": "AI-A",
+    "year": "4th Year",
+    "careerGoal": "DevOps Engineer",
+    "readiness": 59,
+    "completedCoursesCount": 3,
+    "certificationsCount": 2,
+    "internshipsAppliedCount": 2,
+    "placementPrepProgress": 54,
+    "skills": [
+      {
+        "name": "Programming Basics",
+        "level": "Intermediate",
+        "target": "Advanced",
+        "progress": 59
+      },
+      {
+        "name": "Problem Solving",
+        "level": "Beginner",
+        "target": "Intermediate",
+        "progress": 49
+      },
+      {
+        "name": "Communication",
+        "level": "Intermediate",
+        "target": "Advanced",
+        "progress": 60
+      }
+    ],
+    "skillGaps": [
+      "Advanced Frameworks",
+      "System Architecture",
+      "Placement Mock Interviews"
+    ],
+    "higherEdInterests": [
+      "Higher Education"
+    ]
+  },
+  {
+    "id": "student18",
+    "name": "Student Demo 18",
+    "email": "student18@careerportal.demo",
+    "password": "student123",
+    "role": "student",
+    "studentId": "STU2026018",
+    "section": "CSE-A",
+    "year": "3rd Year",
+    "careerGoal": "UI/UX Designer",
+    "readiness": 83,
+    "completedCoursesCount": 5,
+    "certificationsCount": 3,
+    "internshipsAppliedCount": 4,
+    "placementPrepProgress": 78,
+    "skills": [
+      {
+        "name": "Programming Basics",
+        "level": "Intermediate",
+        "target": "Advanced",
+        "progress": 83
+      },
+      {
+        "name": "Problem Solving",
+        "level": "Beginner",
+        "target": "Intermediate",
+        "progress": 73
+      },
+      {
+        "name": "Communication",
+        "level": "Intermediate",
+        "target": "Advanced",
+        "progress": 60
+      }
+    ],
+    "skillGaps": [
+      "Advanced Frameworks",
+      "System Architecture",
+      "Placement Mock Interviews"
+    ],
+    "higherEdInterests": [
+      "Higher Education"
+    ]
+  },
+  {
+    "id": "student19",
+    "name": "Student Demo 19",
+    "email": "student19@careerportal.demo",
+    "password": "student123",
+    "role": "student",
+    "studentId": "STU2026019",
+    "section": "AI-A",
+    "year": "4th Year",
+    "careerGoal": "Product Manager",
+    "readiness": 88,
+    "completedCoursesCount": 5,
+    "certificationsCount": 3,
+    "internshipsAppliedCount": 4,
+    "placementPrepProgress": 83,
+    "skills": [
+      {
+        "name": "Programming Basics",
+        "level": "Intermediate",
+        "target": "Advanced",
+        "progress": 88
+      },
+      {
+        "name": "Problem Solving",
+        "level": "Beginner",
+        "target": "Intermediate",
+        "progress": 78
+      },
+      {
+        "name": "Communication",
+        "level": "Intermediate",
+        "target": "Advanced",
+        "progress": 60
+      }
+    ],
+    "skillGaps": [
+      "Advanced Frameworks",
+      "System Architecture",
+      "Placement Mock Interviews"
+    ],
+    "higherEdInterests": [
+      "Higher Education"
+    ]
+  },
+  {
+    "id": "student20",
+    "name": "Student Demo 20",
+    "email": "student20@careerportal.demo",
+    "password": "student123",
+    "role": "student",
+    "studentId": "STU2026020",
+    "section": "CSE-A",
+    "year": "3rd Year",
+    "careerGoal": "Full Stack Developer",
+    "readiness": 60,
+    "completedCoursesCount": 4,
+    "certificationsCount": 2,
+    "internshipsAppliedCount": 3,
+    "placementPrepProgress": 55,
+    "skills": [
+      {
+        "name": "Programming Basics",
+        "level": "Intermediate",
+        "target": "Advanced",
+        "progress": 60
+      },
+      {
+        "name": "Problem Solving",
+        "level": "Beginner",
+        "target": "Intermediate",
+        "progress": 50
+      },
+      {
+        "name": "Communication",
+        "level": "Intermediate",
+        "target": "Advanced",
+        "progress": 60
+      }
+    ],
+    "skillGaps": [
+      "Advanced Frameworks",
+      "System Architecture",
+      "Placement Mock Interviews"
+    ],
+    "higherEdInterests": [
+      "Higher Education"
+    ]
+  }
+]

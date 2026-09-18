@@ -1,0 +1,152 @@
+[
+  {
+    "id": "he1",
+    "category": "M.Tech",
+    "program": "M.Tech in Computer Science / AI",
+    "eligibility": "B.Tech + valid GATE Score",
+    "entranceExam": "GATE CS",
+    "requiredSkills": [
+      "DSA",
+      "Mathematics",
+      "Operating Systems"
+    ],
+    "resources": [
+      "IIT / NIT Admission Portals",
+      "NPTEL GATE Prep"
+    ]
+  },
+  {
+    "id": "he2",
+    "category": "MBA",
+    "program": "MBA in Technology Management / Analytics",
+    "eligibility": "Bachelor Degree with 50%+",
+    "entranceExam": "CAT / XAT / GMAT",
+    "requiredSkills": [
+      "Logical Reasoning",
+      "Quantitative Aptitude",
+      "Communication"
+    ],
+    "resources": [
+      "IIM Admission Guidelines",
+      "CAT Mock Analysis"
+    ]
+  },
+  {
+    "id": "he3",
+    "category": "MS",
+    "program": "MS in Computer Science (USA / Europe)",
+    "eligibility": "B.Tech (7.0+ CGPA) + GRE + TOEFL/IELTS",
+    "entranceExam": "GRE, TOEFL/IELTS",
+    "requiredSkills": [
+      "Research Aptitude",
+      "SOP Writing",
+      "Core CS Fundamentals"
+    ],
+    "resources": [
+      "University Official Websites",
+      "EducationUSA Counseling"
+    ]
+  },
+  {
+    "id": "he4",
+    "category": "MCA",
+    "program": "Master of Computer Applications",
+    "eligibility": "B.Sc / BCA / B.Tech Graduates",
+    "entranceExam": "CUET-PG / NIMCET",
+    "requiredSkills": [
+      "Mathematics",
+      "Computer Science Basics"
+    ],
+    "resources": [
+      "NIMCET Preparation Portal"
+    ]
+  },
+  {
+    "id": "he5",
+    "category": "PhD",
+    "program": "PhD in Artificial Intelligence & Robotics",
+    "eligibility": "M.Tech / Direct B.Tech (High CGPA)",
+    "entranceExam": "GATE / University Research Entrance",
+    "requiredSkills": [
+      "Research Paper Writing",
+      "Advanced Math",
+      "PyTorch"
+    ],
+    "resources": [
+      "IIT PhD Research Notifications"
+    ]
+  },
+  {
+    "id": "he6",
+    "category": "Government Universities",
+    "program": "M.Sc Data Science at Central Universities",
+    "eligibility": "B.Sc Math/CS or B.Tech",
+    "entranceExam": "CUET-PG",
+    "requiredSkills": [
+      "Statistics",
+      "Python Programming"
+    ],
+    "resources": [
+      "CUET Official Samarth Portal"
+    ]
+  },
+  {
+    "id": "he7",
+    "category": "Study Abroad",
+    "program": "MS in Cybersecurity in Germany (Tuition Free)",
+    "eligibility": "B.Tech in CS/IT + IELTS (6.5+)",
+    "entranceExam": "IELTS / GRE (Optional)",
+    "requiredSkills": [
+      "German Language Basics",
+      "Core Network Security"
+    ],
+    "resources": [
+      "DAAD Official Portal"
+    ]
+  },
+  {
+    "id": "he8",
+    "category": "M.Tech",
+    "program": "M.Tech in Data Science & Artificial Intelligence",
+    "eligibility": "B.Tech + GATE Score",
+    "entranceExam": "GATE DA / GATE CS",
+    "requiredSkills": [
+      "Linear Algebra",
+      "Python",
+      "ML Algorithms"
+    ],
+    "resources": [
+      "IIT Hyderabad / IISc Portals"
+    ]
+  },
+  {
+    "id": "he9",
+    "category": "MBA",
+    "program": "PGP in Business Analytics (IIM Bangalore)",
+    "eligibility": "Graduation + CAT / GMAT",
+    "entranceExam": "CAT",
+    "requiredSkills": [
+      "Data Analysis",
+      "Business Acumen",
+      "Aptitude"
+    ],
+    "resources": [
+      "IIM Bangalore Portal"
+    ]
+  },
+  {
+    "id": "he10",
+    "category": "Study Abroad",
+    "program": "Master of Information Technology (Australia)",
+    "eligibility": "Bachelor Degree + PTE / IELTS",
+    "entranceExam": "IELTS / PTE",
+    "requiredSkills": [
+      "SOP",
+      "Academic LORs",
+      "Basic Web Tech"
+    ],
+    "resources": [
+      "Study in Australia Official Portal"
+    ]
+  }
+]

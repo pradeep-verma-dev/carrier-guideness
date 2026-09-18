@@ -1,0 +1,122 @@
+[
+  {
+    "id": "p1",
+    "category": "Aptitude",
+    "title": "Quantitative Aptitude Mastery",
+    "topic": "Percentage, Ratio & Profit Loss",
+    "difficulty": "Medium",
+    "completed": false
+  },
+  {
+    "id": "p2",
+    "category": "Logical Reasoning",
+    "title": "Data Interpretation & Arrangements",
+    "topic": "Seating Arrangement & Puzzles",
+    "difficulty": "Hard",
+    "completed": false
+  },
+  {
+    "id": "p3",
+    "category": "Verbal Ability",
+    "title": "Grammar & Reading Comprehension",
+    "topic": "Sentence Correction & Vocabulary",
+    "difficulty": "Easy",
+    "completed": true
+  },
+  {
+    "id": "p4",
+    "category": "Coding",
+    "title": "Top 50 Arrays & Strings Questions",
+    "topic": "Two Pointers & Sliding Window",
+    "difficulty": "Medium",
+    "completed": true
+  },
+  {
+    "id": "p5",
+    "category": "Coding",
+    "title": "Linked List & Stack Operations",
+    "topic": "In-place Reversal & Monotonic Stack",
+    "difficulty": "Medium",
+    "completed": false
+  },
+  {
+    "id": "p6",
+    "category": "Technical Interview",
+    "title": "Core OOPs Concepts",
+    "topic": "Encapsulation, Polymorphism, Abstraction",
+    "difficulty": "Easy",
+    "completed": true
+  },
+  {
+    "id": "p7",
+    "category": "Technical Interview",
+    "title": "DBMS SQL Queries",
+    "topic": "JOINS, Subqueries, Indexing",
+    "difficulty": "Medium",
+    "completed": true
+  },
+  {
+    "id": "p8",
+    "category": "Technical Interview",
+    "title": "Operating System Fundamentals",
+    "topic": "Process Synchronization & Deadlocks",
+    "difficulty": "Medium",
+    "completed": false
+  },
+  {
+    "id": "p9",
+    "category": "HR Interview",
+    "title": "Tell Me About Yourself & Project Pitch",
+    "topic": "Behavioral STAR Method",
+    "difficulty": "Easy",
+    "completed": true
+  },
+  {
+    "id": "p10",
+    "category": "Resume",
+    "title": "ATS-Friendly Resume Building",
+    "topic": "Action Verbs, Metrics & Layout",
+    "difficulty": "Easy",
+    "completed": true
+  },
+  {
+    "id": "p11",
+    "category": "Group Discussion",
+    "title": "Current Tech Trends GD Topics",
+    "topic": "AI Impact on Jobs & Cybersecurity",
+    "difficulty": "Medium",
+    "completed": false
+  },
+  {
+    "id": "p12",
+    "category": "Coding",
+    "title": "Tree & Graph Traversals",
+    "topic": "BFS, DFS, Dijkstra Algorithm",
+    "difficulty": "Hard",
+    "completed": false
+  },
+  {
+    "id": "p13",
+    "category": "Technical Interview",
+    "title": "System Design Basics",
+    "topic": "Load Balancers, Caching & Scaling",
+    "difficulty": "Hard",
+    "completed": false
+  },
+  {
+    "id": "p14",
+    "category": "HR Interview",
+    "title": "Handling Weakness & Conflict Questions",
+    "topic": "Constructive Self-Assessment",
+    "difficulty": "Easy",
+    "completed": false
+  },
+  {
+    "id": "p15",
+    "category": "Aptitude",
+    "title": "Permutation, Combination & Probability",
+    "topic": "Combinatorics & Venn Diagrams",
+    "difficulty": "Hard",
+    "completed": false
+  }
+]

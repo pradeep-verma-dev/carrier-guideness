@@ -1,0 +1,52 @@
+[
+  {
+    "id": "teacher1",
+    "name": "Dr. Rajesh Sharma",
+    "email": "teacher@careerportal.demo",
+    "password": "teacher123",
+    "role": "teacher",
+    "department": "Computer Science & Engineering",
+    "assignedSection": "CSE-A",
+    "designation": "Associate Professor"
+  },
+  {
+    "id": "teacher2",
+    "name": "Prof. Ananya Roy",
+    "email": "teacher2@careerportal.demo",
+    "password": "teacher123",
+    "role": "teacher",
+    "department": "Information Technology",
+    "assignedSection": "IT-B",
+    "designation": "Assistant Professor"
+  },
+  {
+    "id": "teacher3",
+    "name": "Dr. Vikram Sethi",
+    "email": "teacher3@careerportal.demo",
+    "password": "teacher123",
+    "role": "teacher",
+    "department": "Computer Science & Engineering",
+    "assignedSection": "CSE-B",
+    "designation": "Professor & HOD"
+  },
+  {
+    "id": "teacher4",
+    "name": "Prof. Meera Kapoor",
+    "email": "teacher4@careerportal.demo",
+    "password": "teacher123",
+    "role": "teacher",
+    "department": "Artificial Intelligence",
+    "assignedSection": "AI-A",
+    "designation": "Senior Mentor"
+  },
+  {
+    "id": "teacher5",
+    "name": "Prof. Suresh Nair",
+    "email": "teacher5@careerportal.demo",
+    "password": "teacher123",
+    "role": "teacher",
+    "department": "Data Science",
+    "assignedSection": "DS-A",
+    "designation": "Assistant Professor"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "chatId": "chat_1789742537223",
+    "userId": "student1",
+    "title": "What skills do I need for Full...",
+    "createdAt": "2026-09-18T14:42:17.223Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "What skills do I need for Full Stack Development?",
+        "timestamp": "2026-09-18T14:42:17.223Z"
+      },
+      {
+        "role": "assistant",
+        "content": "### Key Skill Blueprint for Full Stack Developers:\n- **Frontend Mastery**: HTML5, CSS Flexbox/Grid, JavaScript (ES6+), React.js.\n- **Backend Architecture**: Node.js & Express.js, RESTful API design.\n- **Data Persistence**: Relational DB (SQL/PostgreSQL) and NoSQL (MongoDB).\n- **Tooling & Cloud**: Git/GitHub, Docker basics, deployment on Vercel/AWS.\n\n*Tip: Complete the Courses & Certifications modules in your dashboard to track progress.*",
+        "timestamp": "2026-09-18T14:42:17.223Z"
+      }
+    ]
+  },
+  {
+    "chatId": "chat001",
+    "userId": "student1",
+    "title": "Full Stack Roadmap Query",
+    "createdAt": "2026-09-16T11:00:00.000Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "What skills do I need for Full Stack Development?",
+        "timestamp": "2026-09-16T11:00:00.000Z"
+      },
+      {
+        "role": "assistant",
+        "content": "To become a proficient Full Stack Developer, you should focus on:\n1. **Frontend**: HTML5, CSS3, JavaScript (ES6+), React.js.\n2. **Backend**: Node.js & Express.js.\n3. **Databases**: SQL (PostgreSQL/MySQL) and MongoDB.\n4. **Version Control**: Git & GitHub.\n5. **Deployment**: Vercel, Netlify, or AWS.",
+        "timestamp": "2026-09-16T11:00:05.000Z"
+      }
+    ]
+  }
+]

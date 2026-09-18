@@ -1,0 +1,28 @@
+[
+  {
+    "id": "msg001",
+    "studentId": "student1",
+    "studentName": "Aarav Gupta",
+    "section": "CSE-A",
+    "subject": "Guidance on Node.js vs Python Backend",
+    "category": "Career Choice",
+    "message": "Respected Sir, I am currently learning React. Should I learn Node.js next or Python Django for backend development?",
+    "date": "2026-09-15 10:30 AM",
+    "status": "Resolved",
+    "reply": "Dear Aarav, since you are already learning React, Node.js is an excellent natural choice for full-stack JavaScript (MERN). Focus on Node.js first!",
+    "repliedAt": "2026-09-15 02:15 PM"
+  },
+  {
+    "id": "msg002",
+    "studentId": "student2",
+    "studentName": "Diya Sharma",
+    "section": "CSE-A",
+    "subject": "GATE CS vs Direct MS Abroad",
+    "category": "Higher Education",
+    "message": "Hello Doctor, I want to specialize in AI. Is preparing for GATE better or preparing GRE for US MS degree?",
+    "date": "2026-09-17 04:20 PM",
+    "status": "Pending",
+    "reply": null,
+    "repliedAt": null
+  }
+]

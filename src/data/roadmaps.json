@@ -1,0 +1,117 @@
+[
+  {
+    "studentId": "student1",
+    "careerGoal": "Full Stack Developer",
+    "steps": [
+      {
+        "id": "step1",
+        "name": "Programming Fundamentals",
+        "status": "Completed",
+        "skills": [
+          "Logic",
+          "Variables",
+          "Loops"
+        ],
+        "description": "Master basic programming logic and control structures."
+      },
+      {
+        "id": "step2",
+        "name": "HTML + CSS + JavaScript",
+        "status": "Completed",
+        "skills": [
+          "HTML5",
+          "CSS Flexbox/Grid",
+          "DOM Manipulation"
+        ],
+        "description": "Build interactive layout and UI responsive pages."
+      },
+      {
+        "id": "step3",
+        "name": "Git & GitHub",
+        "status": "Completed",
+        "skills": [
+          "Git Commits",
+          "Branching",
+          "Pull Requests"
+        ],
+        "description": "Version control and collaborative coding workflow."
+      },
+      {
+        "id": "step4",
+        "name": "React",
+        "status": "In Progress",
+        "skills": [
+          "Components",
+          "Hooks",
+          "State",
+          "Router"
+        ],
+        "description": "Single page app framework with component architecture."
+      },
+      {
+        "id": "step5",
+        "name": "Node.js & Express",
+        "status": "In Progress",
+        "skills": [
+          "Node Runtime",
+          "Express Routing",
+          "REST APIs"
+        ],
+        "description": "Backend server design and building HTTP endpoint interfaces."
+      },
+      {
+        "id": "step6",
+        "name": "Database Systems",
+        "status": "Not Started",
+        "skills": [
+          "SQL/NoSQL",
+          "Schemas",
+          "CRUD Queries"
+        ],
+        "description": "Data persistence and relational database concepts."
+      },
+      {
+        "id": "step7",
+        "name": "Full Stack Projects",
+        "status": "Not Started",
+        "skills": [
+          "MERN Stack",
+          "Auth",
+          "Deployment"
+        ],
+        "description": "End-to-end web project implementation and deployment."
+      },
+      {
+        "id": "step8",
+        "name": "Internship Application",
+        "status": "In Progress",
+        "skills": [
+          "Resume",
+          "Portfolio",
+          "Interviews"
+        ],
+        "description": "Securing industrial experience through tech internships."
+      },
+      {
+        "id": "step9",
+        "name": "Placement Preparation",
+        "status": "In Progress",
+        "skills": [
+          "DSA",
+          "System Design",
+          "Mock HR"
+        ],
+        "description": "Aptitude, coding rounds, and interview readiness."
+      },
+      {
+        "id": "step10",
+        "name": "Full Stack Developer",
+        "status": "Not Started",
+        "skills": [
+          "Industry Ready"
+        ],
+        "description": "Final target milestone achieving job-ready software engineer role."
+      }
+    ]
+  }
+]

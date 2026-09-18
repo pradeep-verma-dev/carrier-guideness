@@ -1,0 +1,140 @@
+[
+  {
+    "id": "ex1",
+    "name": "GATE (Computer Science)",
+    "category": "GATE",
+    "eligibility": "B.Tech Final / Pre-final Year",
+    "subjects": [
+      "DSA",
+      "DBMS",
+      "OS",
+      "Computer Networks",
+      "Theory of Computation",
+      "Aptitude"
+    ],
+    "resources": [
+      "NPTEL GATE Lectures",
+      "Standard Textbooks",
+      "PYQ Practice"
+    ],
+    "dates": "Exam in Feb 2027"
+  },
+  {
+    "id": "ex2",
+    "name": "CAT (Common Admission Test)",
+    "category": "CAT",
+    "eligibility": "Bachelor's Degree with 50%+",
+    "subjects": [
+      "Quantitative Aptitude",
+      "DILR",
+      "VARC"
+    ],
+    "resources": [
+      "Arun Sharma Books",
+      "Mock Tests",
+      "Time Management Practice"
+    ],
+    "dates": "Exam in Nov 2026"
+  },
+  {
+    "id": "ex3",
+    "name": "UPSC Civil Services (CSE)",
+    "category": "UPSC",
+    "eligibility": "Any Graduate Degree",
+    "subjects": [
+      "General Studies",
+      "CSAT",
+      "Optional Subject"
+    ],
+    "resources": [
+      "NCERT Textbooks",
+      "Current Affairs",
+      "Standard GS Books"
+    ],
+    "dates": "Prelims in May 2027"
+  },
+  {
+    "id": "ex4",
+    "name": "CUET-PG (Computer Science / MCA)",
+    "category": "CUET-PG",
+    "eligibility": "B.Sc / BCA / B.Tech Graduates",
+    "subjects": [
+      "Computer Fundamentals",
+      "Data Structures",
+      "Mathematics",
+      "Logical Reasoning"
+    ],
+    "resources": [
+      "Standard MCA Entrance Guides",
+      "Previous Papers"
+    ],
+    "dates": "Exam in March 2027"
+  },
+  {
+    "id": "ex5",
+    "name": "GRE (Graduate Record Examination)",
+    "category": "Study Abroad",
+    "eligibility": "Any Undergrad Student aiming for foreign MS",
+    "subjects": [
+      "Verbal Reasoning",
+      "Quantitative Reasoning",
+      "Analytical Writing"
+    ],
+    "resources": [
+      "Manhattan Prep",
+      "ETS Official Guide"
+    ],
+    "dates": "Flexible Round the Year"
+  },
+  {
+    "id": "ex6",
+    "name": "SSC CGL (Combined Graduate Level)",
+    "category": "SSC",
+    "eligibility": "Graduate in Any Discipline",
+    "subjects": [
+      "Quantitative Aptitude",
+      "English Language",
+      "Reasoning",
+      "General Awareness"
+    ],
+    "resources": [
+      "R.S. Aggarwal",
+      "Previous Year Question Papers"
+    ],
+    "dates": "Exam in July 2027"
+  },
+  {
+    "id": "ex7",
+    "name": "SBI PO / IBPS PO Exam",
+    "category": "Banking",
+    "eligibility": "Graduation in Any Stream",
+    "subjects": [
+      "Reasoning Ability",
+      "Quantitative Aptitude",
+      "English",
+      "General Banking Awareness"
+    ],
+    "resources": [
+      "Bank PO Preparation Kits",
+      "Daily Speed Tests"
+    ],
+    "dates": "Exam in Oct 2026"
+  },
+  {
+    "id": "ex8",
+    "name": "TOEFL / IELTS Exam",
+    "category": "Study Abroad",
+    "eligibility": "Students planning foreign university applications",
+    "subjects": [
+      "Reading",
+      "Listening",
+      "Speaking",
+      "Writing"
+    ],
+    "resources": [
+      "Cambridge English Guide",
+      "Magoosh Practice"
+    ],
+    "dates": "Flexible Schedule"
+  }
+]

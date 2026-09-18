@@ -1,0 +1,92 @@
+[
+  {
+    "id": "cert1",
+    "name": "AWS Certified Cloud Practitioner",
+    "provider": "Amazon Web Services",
+    "category": "Cloud",
+    "difficulty": "Foundational",
+    "duration": "2 Months Prep",
+    "link": "https://aws.amazon.com/certification/certified-cloud-practitioner/"
+  },
+  {
+    "id": "cert2",
+    "name": "Microsoft Certified: Azure Fundamentals (AZ-900)",
+    "provider": "Microsoft",
+    "category": "Cloud",
+    "difficulty": "Beginner",
+    "duration": "1 Month Prep",
+    "link": "https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/"
+  },
+  {
+    "id": "cert3",
+    "name": "Google Data Analytics Professional Certificate",
+    "provider": "Google",
+    "category": "Data Science",
+    "difficulty": "Intermediate",
+    "duration": "3 Months Prep",
+    "link": "https://grow.google/certificates/data-analytics/"
+  },
+  {
+    "id": "cert4",
+    "name": "Cisco Certified Network Associate (CCNA)",
+    "provider": "Cisco",
+    "category": "Networking",
+    "difficulty": "Intermediate",
+    "duration": "4 Months Prep",
+    "link": "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html"
+  },
+  {
+    "id": "cert5",
+    "name": "Certified Ethical Hacker (CEH)",
+    "provider": "EC-Council",
+    "category": "Cybersecurity",
+    "difficulty": "Advanced",
+    "duration": "4 Months Prep",
+    "link": "https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/"
+  },
+  {
+    "id": "cert6",
+    "name": "TensorFlow Developer Certificate",
+    "provider": "Google / TensorFlow",
+    "category": "AI/ML",
+    "difficulty": "Advanced",
+    "duration": "3 Months Prep",
+    "link": "https://www.tensorflow.org/certificate"
+  },
+  {
+    "id": "cert7",
+    "name": "Meta Front-End Developer Professional Certificate",
+    "provider": "Meta",
+    "category": "Frontend",
+    "difficulty": "Intermediate",
+    "duration": "3 Months Prep",
+    "link": "https://www.coursera.org/professional-certificates/meta-front-end-developer"
+  },
+  {
+    "id": "cert8",
+    "name": "Oracle Certified Associate, Java SE Programmer",
+    "provider": "Oracle",
+    "category": "Programming",
+    "difficulty": "Intermediate",
+    "duration": "2 Months Prep",
+    "link": "https://education.oracle.com"
+  },
+  {
+    "id": "cert9",
+    "name": "Certified Kubernetes Administrator (CKA)",
+    "provider": "CNCF & Linux Foundation",
+    "category": "DevOps",
+    "difficulty": "Advanced",
+    "duration": "3 Months Prep",
+    "link": "https://www.cncf.io/certification/cka/"
+  },
+  {
+    "id": "cert10",
+    "name": "CompTIA Security+",
+    "provider": "CompTIA",
+    "category": "Cybersecurity",
+    "difficulty": "Intermediate",
+    "duration": "2 Months Prep",
+    "link": "https://www.comptia.org/certifications/security"
+  }
+]

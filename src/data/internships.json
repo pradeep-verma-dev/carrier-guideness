@@ -1,0 +1,153 @@
+[
+  {
+    "id": "int1",
+    "company": "TechCorp Solutions",
+    "role": "Full Stack Intern",
+    "location": "Bangalore (Hybrid)",
+    "mode": "Hybrid",
+    "duration": "3 Months",
+    "requiredSkills": [
+      "React",
+      "Node.js",
+      "MongoDB/SQL"
+    ],
+    "deadline": "2026-10-15",
+    "isDemo": true
+  },
+  {
+    "id": "int2",
+    "company": "CloudScale Systems",
+    "role": "Cloud & DevOps Intern",
+    "location": "Remote",
+    "mode": "Remote",
+    "duration": "6 Months",
+    "requiredSkills": [
+      "AWS",
+      "Docker",
+      "Linux"
+    ],
+    "deadline": "2026-10-20",
+    "isDemo": true
+  },
+  {
+    "id": "int3",
+    "company": "DataMind AI Lab",
+    "role": "Data Science Intern",
+    "location": "Hyderabad",
+    "mode": "On-Site",
+    "duration": "3 Months",
+    "requiredSkills": [
+      "Python",
+      "Pandas",
+      "Scikit-Learn"
+    ],
+    "deadline": "2026-10-30",
+    "isDemo": true
+  },
+  {
+    "id": "int4",
+    "company": "SecureByte Analytics",
+    "role": "Cybersecurity Intern",
+    "location": "Pune",
+    "mode": "On-Site",
+    "duration": "4 Months",
+    "requiredSkills": [
+      "Networking",
+      "Linux",
+      "Ethical Hacking"
+    ],
+    "deadline": "2026-11-05",
+    "isDemo": true
+  },
+  {
+    "id": "int5",
+    "company": "NextGen Software",
+    "role": "Frontend Developer Intern",
+    "location": "Remote",
+    "mode": "Remote",
+    "duration": "3 Months",
+    "requiredSkills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React"
+    ],
+    "deadline": "2026-10-12",
+    "isDemo": true
+  },
+  {
+    "id": "int6",
+    "company": "Innovate AI",
+    "role": "Machine Learning Intern",
+    "location": "Gurgaon (Hybrid)",
+    "mode": "Hybrid",
+    "duration": "6 Months",
+    "requiredSkills": [
+      "Python",
+      "PyTorch",
+      "NLP"
+    ],
+    "deadline": "2026-11-15",
+    "isDemo": true
+  },
+  {
+    "id": "int7",
+    "company": "Creative Labs UX",
+    "role": "UI/UX Design Intern",
+    "location": "Mumbai",
+    "mode": "On-Site",
+    "duration": "3 Months",
+    "requiredSkills": [
+      "Figma",
+      "User Testing",
+      "Wireframing"
+    ],
+    "deadline": "2026-10-25",
+    "isDemo": true
+  },
+  {
+    "id": "int8",
+    "company": "Apex Systems",
+    "role": "Backend Developer Intern",
+    "location": "Bangalore",
+    "mode": "On-Site",
+    "duration": "6 Months",
+    "requiredSkills": [
+      "Java",
+      "Spring Boot",
+      "MySQL"
+    ],
+    "deadline": "2026-11-01",
+    "isDemo": true
+  },
+  {
+    "id": "int9",
+    "company": "Vanguard Tech",
+    "role": "Product Management Intern",
+    "location": "Remote",
+    "mode": "Remote",
+    "duration": "3 Months",
+    "requiredSkills": [
+      "Agile",
+      "User Stories",
+      "Market Research"
+    ],
+    "deadline": "2026-10-18",
+    "isDemo": true
+  },
+  {
+    "id": "int10",
+    "company": "CyberShield Corp",
+    "role": "SOC Analyst Trainee",
+    "location": "Noida",
+    "mode": "On-Site",
+    "duration": "4 Months",
+    "requiredSkills": [
+      "Wireshark",
+      "Linux CLI",
+      "Log Analysis"
+    ],
+    "deadline": "2026-11-10",
+    "isDemo": true
+  }
+]

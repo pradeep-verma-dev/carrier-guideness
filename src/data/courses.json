@@ -1,0 +1,214 @@
+[
+  {
+    "id": "c1",
+    "name": "Responsive Web Design",
+    "platform": "freeCodeCamp",
+    "category": "Frontend",
+    "level": "Beginner",
+    "duration": "30 Hours",
+    "skills": [
+      "HTML",
+      "CSS",
+      "Responsive Design"
+    ],
+    "link": "https://www.freecodecamp.org/learn/2022/responsive-web-design/"
+  },
+  {
+    "id": "c2",
+    "name": "JavaScript Algorithms and Data Structures",
+    "platform": "freeCodeCamp",
+    "category": "Programming",
+    "level": "Intermediate",
+    "duration": "40 Hours",
+    "skills": [
+      "JavaScript",
+      "ES6",
+      "Algorithms"
+    ],
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/"
+  },
+  {
+    "id": "c3",
+    "name": "Node.js & Express - Full Course",
+    "platform": "freeCodeCamp",
+    "category": "Backend",
+    "level": "Intermediate",
+    "duration": "12 Hours",
+    "skills": [
+      "Node.js",
+      "Express",
+      "REST API"
+    ],
+    "link": "https://www.youtube.com/watch?v=Oe421EPjeBE"
+  },
+  {
+    "id": "c4",
+    "name": "Programming in Java",
+    "platform": "NPTEL",
+    "category": "Programming",
+    "level": "Intermediate",
+    "duration": "12 Weeks",
+    "skills": [
+      "Java",
+      "OOP",
+      "Data Structures"
+    ],
+    "link": "https://nptel.ac.in/courses/106105191"
+  },
+  {
+    "id": "c5",
+    "name": "Machine Learning by Andrew Ng",
+    "platform": "Coursera",
+    "category": "AI/ML",
+    "level": "Beginner",
+    "duration": "6 Weeks",
+    "skills": [
+      "Python",
+      "Supervised Learning",
+      "Linear Regression"
+    ],
+    "link": "https://www.coursera.org/learn/machine-learning"
+  },
+  {
+    "id": "c6",
+    "name": "AWS Cloud Technical Essentials",
+    "platform": "Coursera",
+    "category": "Cloud",
+    "level": "Beginner",
+    "duration": "4 Weeks",
+    "skills": [
+      "AWS",
+      "Cloud Architecture",
+      "EC2"
+    ],
+    "link": "https://www.coursera.org/learn/aws-cloud-technical-essentials"
+  },
+  {
+    "id": "c7",
+    "name": "Docker and Kubernetes: The Complete Guide",
+    "platform": "Udemy",
+    "category": "DevOps",
+    "level": "Intermediate",
+    "duration": "22 Hours",
+    "skills": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD"
+    ],
+    "link": "https://www.udemy.com"
+  },
+  {
+    "id": "c8",
+    "name": "Python for Data Science and Machine Learning",
+    "platform": "Udemy",
+    "category": "Data Science",
+    "level": "Intermediate",
+    "duration": "25 Hours",
+    "skills": [
+      "Python",
+      "Pandas",
+      "NumPy",
+      "Matplotlib"
+    ],
+    "link": "https://www.udemy.com"
+  },
+  {
+    "id": "c9",
+    "name": "Introduction to Cybersecurity",
+    "platform": "edX",
+    "category": "Cybersecurity",
+    "level": "Beginner",
+    "duration": "5 Weeks",
+    "skills": [
+      "Network Security",
+      "Encryption",
+      "Threat Analysis"
+    ],
+    "link": "https://www.edx.org"
+  },
+  {
+    "id": "c10",
+    "name": "Google UX Design Professional Certificate",
+    "platform": "Coursera",
+    "category": "UI/UX",
+    "level": "Beginner",
+    "duration": "6 Months",
+    "skills": [
+      "Figma",
+      "User Research",
+      "Wireframing"
+    ],
+    "link": "https://www.coursera.org"
+  },
+  {
+    "id": "c11",
+    "name": "Database Management Systems",
+    "platform": "NPTEL",
+    "category": "Database",
+    "level": "Intermediate",
+    "duration": "8 Weeks",
+    "skills": [
+      "SQL",
+      "Relational Algebra",
+      "Normalization"
+    ],
+    "link": "https://nptel.ac.in"
+  },
+  {
+    "id": "c12",
+    "name": "Product Management Fundamentals",
+    "platform": "edX",
+    "category": "Product Management",
+    "level": "Beginner",
+    "duration": "4 Weeks",
+    "skills": [
+      "Product Roadmap",
+      "Agile",
+      "User Stories"
+    ],
+    "link": "https://www.edx.org"
+  },
+  {
+    "id": "c13",
+    "name": "Full Stack Open - React & Redux",
+    "platform": "freeCodeCamp",
+    "category": "Full Stack",
+    "level": "Advanced",
+    "duration": "50 Hours",
+    "skills": [
+      "React",
+      "GraphQL",
+      "TypeScript"
+    ],
+    "link": "https://fullstackopen.com/"
+  },
+  {
+    "id": "c14",
+    "name": "Data Structures and Algorithms in C++",
+    "platform": "NPTEL",
+    "category": "Programming",
+    "level": "Advanced",
+    "duration": "12 Weeks",
+    "skills": [
+      "C++",
+      "Trees",
+      "Graphs",
+      "Dynamic Programming"
+    ],
+    "link": "https://nptel.ac.in"
+  },
+  {
+    "id": "c15",
+    "name": "Linux System Administration",
+    "platform": "Coursera",
+    "category": "DevOps",
+    "level": "Intermediate",
+    "duration": "6 Weeks",
+    "skills": [
+      "Linux CLI",
+      "Bash Scripting",
+      "User Management"
+    ],
+    "link": "https://www.coursera.org"
+  }
+]
